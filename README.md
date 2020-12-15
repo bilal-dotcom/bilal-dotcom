@@ -1,5 +1,9 @@
-### Hi there 👋, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, FIKARA Bilal here!
-Welcome to my Github account ðŸ¤©
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, FIKARA Bilal here!
+Welcome to my Github account .
+### How to reach Me ðŸ‘‡
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="20" height='auto'>][linkedin]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' width="20" height='auto'>][twitter] 
+
 
 <!--
 **bilal-dotcom/bilal-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

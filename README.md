@@ -2,6 +2,7 @@
 ### How to reach Me 👇
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="20" height='auto'>][linkedin]
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' width="20" height='auto'>][twitter] 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='hashnode' width="20" height='auto'>][hashnode] 
 
 ---
 
@@ -14,8 +15,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bilal-dotcom&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Med amine's GitHub Stats" />
 </a>
 
-[hasnode]: https://bilaldotcom.hashnode.dev/
-[twitter]: https://twitter.com/bill_fka
+[hashnode]: https://bilaldotcom.hashnode.dev/
+[twiter]: https://twitter.com/bill_fka
 [linkedin]: https://www.linkedin.com/in/bilal-fikara-4996201b7
 
 <!--

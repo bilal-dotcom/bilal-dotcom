@@ -20,7 +20,6 @@
 </a>
 
 
-[twitter]: https://twitter.com/bill_fka
 [linkedin]: https://www.linkedin.com/in/bilal-fikara-4996201b7
 
 <!--
